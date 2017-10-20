@@ -20,14 +20,14 @@ https://medium.com/building-community
 ## Blogs that look inactive 
 http://blaisegv.com/
 
-# Agencies
+## Agencies
 http://www.loyal.is/
 https://www.feverbee.com/
 http://vocecommunications.com/
 https://thesocialelement.agency/
 https://www.bluemountaincommunity.com/
 
-# Communities
+## Communities
 https://www.facebook.com/groups/cmxhub
 https://www.facebook.com/groups/3553055120/
 https://www.facebook.com/groups/TheCommunityRoundtable
@@ -40,15 +40,15 @@ http://www.e-mint.org.uk/
 http://mycmgr.com/
 https://experts.feverbee.com/c/community-discussions
 
-# Specialised Community Software
+## Specialised Community Software
 https://www.stomt.com - Scalable Feedback Management; Channel feedback across all touchpoints; A central place for feedback
 https://www.campusgroups.com - Community Software for Campuses
 
-# White-Label Community Software
+## White-Label Community Software
 https://www.cmnty.com
 https://www.senseofcommunity.com/
 
-# Social Media related tools
+## Social Media related tools
 https://flumeapp.com/ - Manage Instagram (also DMs) from your Desktop
 
 
