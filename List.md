@@ -8,9 +8,9 @@ Because here this list can evolve with the crowd.
 Please, create an issue for any new resource or feedback. If you do not have a Github-Account, you can anonymously leave a wish and append an URL on this STOMT page: https://www.stomt.com/community-management-resources (no registration required)
 
 ## Blogs & Websites
-http://thecommunitymanager.com/
-http://www.evanhamilton.com/
-http://www.ligayatichy.com/
+http://thecommunitymanager.com/    
+http://www.evanhamilton.com/   
+http://www.ligayatichy.com/   
 https://www.tintup.com/blog/
 http://www.managingcommunities.com/
 http://icuc.social/en-EMEA/blog/
