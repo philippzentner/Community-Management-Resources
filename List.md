@@ -20,12 +20,13 @@ https://medium.com/building-community
 ## Blogs that look inactive 
 http://blaisegv.com/   
 
-## Agencies
+## Agencies & Companies
 http://www.loyal.is/   
 https://www.feverbee.com/   
 http://vocecommunications.com/   
 https://thesocialelement.agency/   
-https://www.bluemountaincommunity.com/   
+https://www.bluemountaincommunity.com/
+http://cmxhub.com/
 
 ## Communities
 https://www.facebook.com/groups/cmxhub   
