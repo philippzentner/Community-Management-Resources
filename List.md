@@ -41,7 +41,7 @@ http://mycmgr.com/
 https://experts.feverbee.com/c/community-discussions
 
 ## Specialised Community Software
-https://www.stomt.com - Scalable Feedback Management; Channel feedback across all touchpoints; A central place for feedback
+https://www.stomt.com - Social network for feedback: Scalable Modern Feedback Management (Omni-Channel)
 https://www.campusgroups.com - Community Software for Campuses
 
 ## White-Label Community Software
