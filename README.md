@@ -9,16 +9,16 @@ Please, create an issue for any new resource or feedback. If you do not have a G
 
 ## Blogs & Websites
 [TheCommunityManager.com](http://thecommunitymanager.com/)    
-http://www.evanhamilton.com/   
-http://www.ligayatichy.com/   
-https://www.tintup.com/blog/   
-http://www.managingcommunities.com/   
-http://icuc.social/en-EMEA/blog/   
-https://moz.com/blog/category/community-management   
-https://medium.com/building-community   
+[Evan Hamilton](http://www.evanhamilton.com/)   
+[Ligayatichy](http://www.ligayatichy.com/)   
+[Tintup Blog](https://www.tintup.com/blog/)
+[ManagingCommunities.com]8http://www.managingcommunities.com/)
+[icuc.social](http://icuc.social/en-EMEA/blog/)
+[Moz.com / Community Management](https://moz.com/blog/category/community-management)  
+[medium.com/building-community](https://medium.com/building-community)   
 
 ## Blogs that look inactive 
-http://blaisegv.com/   
+[blaisegv.com](http://blaisegv.com/)
 
 ## Agencies & Companies
 http://www.loyal.is/   
